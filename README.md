@@ -16,3 +16,4 @@ import java.until.Scanner;
 Scanner sc=new Scanner(System.in);
 int name=sc.nextIn();
 )
+IDEA(下载官网：https://www.jetbrains.com/idea/)
