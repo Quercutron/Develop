@@ -10,3 +10,9 @@ class（定义一个类）
 任意进制转十进制（公式：系数*基数的权次幂 相加）
 byte的取值范围（-128~127）
 标识符：类，方法，变量的名称；不能以数字开头；由字母，数字，-,$组成；
+键盘录入：Scanner
+(
+import java.until.Scanner;
+Scanner sc=new Scanner(System.in);
+int name=sc.nextIn();
+)
