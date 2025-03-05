@@ -9,7 +9,7 @@ public class Information {
         System.out.println("性别："+gender);
         double heigh=180.1;
         System.out.println("身高："+heigh);
-        char love='是';
+        boolean love=true;
         System.out.println("是否单身："+love);
     }
 }
