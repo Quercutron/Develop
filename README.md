@@ -21,3 +21,4 @@ IDEA四层结构（project 项目；module 模块；package 包；class 类；�
 小数参与运算可能丢失精度
 算术运算符：=，-，乘，/，%；
 小自动升大，大强制缩小。
+byte，short，char升为int；
