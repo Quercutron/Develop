@@ -18,3 +18,4 @@ int name=sc.nextIn();
 )
 IDEA(下载官网：https://www.jetbrains.com/idea/)
 IDEA四层结构（project 项目；module 模块；package 包；class 类；）
+小数参与运算可能丢失精度
