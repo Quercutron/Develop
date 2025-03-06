@@ -22,3 +22,4 @@ IDEA四层结构（project 项目；module 模块；package 包；class 类；�
 算术运算符：=，-，乘，/，%；
 小自动升大，大强制缩小。
 byte，short，char升为int；
+强制转换类型：目标数据类型 变量名=（目标数据类型）被强制转换变量名；
