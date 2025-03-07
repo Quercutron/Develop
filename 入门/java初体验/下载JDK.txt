@@ -1,0 +1,3 @@
+JDK官网	http://www.oracle.com
+（建议全放在一起）
+bin：存放各种工具，有javac和java

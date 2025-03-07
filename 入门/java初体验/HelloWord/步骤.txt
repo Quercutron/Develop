@@ -1,0 +1,8 @@
+1.编写程序
+2.编译文件：javac
+3.运行程序：Java（class 字节码文件）
+
+打开CMD准备运行
+1.跳转到运行目录
+2.运行javac 程序名.java（把.java编译成.class文件）
+3.运行java 程序名
