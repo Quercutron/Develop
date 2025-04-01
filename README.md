@@ -6,3 +6,5 @@ Test10：输入一个值，用if判断语句输出。
 Test11：作业，红绿灯。
 Practice01:练习，输入数字，if else。
 Practice03：if的嵌套。
+Practice04:嵌套练习，输入输出。。
+Test12：switch语句，输入星期，输出计划。
