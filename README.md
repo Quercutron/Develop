@@ -9,3 +9,4 @@ Practice03：if的嵌套。
 Practice04:嵌套练习，输入输出。。
 Test12：switch语句，输入星期，输出计划。
 Practice05：switch语句进行简化。
+Test14：for循环输出1到5
