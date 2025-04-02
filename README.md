@@ -15,3 +15,4 @@ Practice06：while打印1~100的数字。
 Practice07：while折纸次数。。
 Test15：偶数累加求和。
 Test16：for 循环输入两个数，求范围内的数能被3和5整除的数的个数。
+Practice08：回文数字：将数字反过来对比一下
