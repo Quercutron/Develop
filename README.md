@@ -11,8 +11,8 @@ Test12：switch语句，输入星期，输出计划。
 Practice05：switch语句进行简化。
 Test14：for循环输出1到5
 Test13:输入一个数，switch数字选择。
-Practice06：while打印1~100的数字。
-Practice07：while折纸次数。。
+Practice06：while打印1到100的数字。
+Practice07：while折纸次数
 Test15：偶数累加求和。
 Test16：for 循环输入两个数，求范围内的数能被3和5整除的数的个数。
 Practice08：回文数字：将数字反过来对比一下
@@ -22,7 +22,7 @@ Practice11:键盘录入一个数，输出这个数的平方根
 Practice12:键盘录入一个正整数，判断该数是否是一个质数
            质数：如果一个数只能被1和它本身整除，那么它就是一个质数，否则为合数
            只有所有数都判断完了才能判断其是否为质数
-LoopTest01:随机生成一个0~100的数字，程序实现猜数字小游戏。
+LoopTest01:随机生成一个0到100的数字，程序实现猜数字小游戏。
 LoopTest02:存储一个数组，并求和
 LoopTest03:定义一个数组，求能被3整除的个数
 LoopTest04:
