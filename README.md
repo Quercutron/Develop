@@ -41,4 +41,5 @@ methoddome03：人肉计算器
 methoddome04：传参
 methoddome05：求长方形的周长，将结果进行打印
 methoddome06：带返回值方法的定义和调用，直接调用，赋值调用，输出调用。
-Test01:
+Test:
+01:比较两个长方形的面积。
