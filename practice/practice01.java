@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class practice01 {
     //买机票
+    /*
+    机票价格按照淡季旺季，头等舱和经济舱收费，输入机票原价，月份和经济舱或者头等舱。
+    按照如下规则计算机票价：旺季（5-10月）头等舱就这，经济舱8.5折，单机（11月到来年四月）头等舱7折，经济舱6.5折。
+     */
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("请输入机票原价：");
