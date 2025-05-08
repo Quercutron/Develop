@@ -65,4 +65,7 @@ practice
 twoDimensionDemo
 1：二维数组的静态初始化。
 2：求每个季度的营业额和年度营业额。
+oop
+Pone:PoneTest的对象。
+PoneTest：调用Pone的成员变量和成员方法。
 
