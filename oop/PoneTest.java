@@ -5,24 +5,25 @@ public class PoneTest {
         //创建对象
         Pone p=new Pone();
         //给对象赋值
-        p.blond="小米";
-        p.prize=1800;
-
+        p.setBlond("小米");
+        //p.prize=1800;
+        p.setPrize(1800);
         //调用对象
-        System.out.println(p.blond);
-        System.out.println(p.prize);
+        System.out.println(p.getBlond());
+        System.out.println(p.getPrize());
 
         //调用对象方法
         p.playGame();
-
         //创建对象
+
+
         Pone huaWei=new Pone();
         //给对象赋值
-        huaWei.blond="华为";
-        huaWei.prize=1888;
+        huaWei.setBlond("华为");
+        huaWei.setPrize(1888);
 
         //调用对象
-        System.out.println(huaWei.blond);
-        System.out.println(huaWei.prize);
+        System.out.println(huaWei.getBlond());
+        System.out.println(huaWei.getPrize());
     }
 }
