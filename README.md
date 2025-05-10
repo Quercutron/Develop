@@ -69,3 +69,5 @@ oop
 Pone:PoneTest的对象。（定义私有变量，使用set和get方法）
 PoneTest：调用Pone的成员变量和成员方法。（调用set和get方法）
 StringTest：使用封装过的变量。
+sTest
+Sudent：构造一个空参和全参。
