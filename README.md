@@ -73,3 +73,4 @@ sTest
 Sudent：构造一个空参和全参。
 sudentTest：使用构造方法直接在new进行传参。
 Game：文字格斗游戏。
+Game：文字格斗游戏，加入随机招式和样貌。
