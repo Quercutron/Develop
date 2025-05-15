@@ -99,3 +99,4 @@ StringDome6：金额转换
     6.通过charAt来获取字符传中每一位汉字和单位进行拼接
     7.输出拼接字符串。
 StringDome7：用.substring方法进行截取（包头不包尾。由索引到索引）
+StringDome8：获取身份证信息。打印年月日，性别。
