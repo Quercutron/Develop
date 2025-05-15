@@ -9,6 +9,7 @@ public class StringDome4 {
         String str=arrToString(arr);
         System.out.println(str);
     }
+    //获取字符串
     public static String arrToString(int[] arr){
         if (arr==null){
             return "";

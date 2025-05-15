@@ -6,6 +6,8 @@ public class StringDome1 {
         String s1="abc";
         //空参传递
         String s2=new String();
+
+
         //字符数组传递，根据字符数组的内容在创建一个新的字符串对象。
         //可以修改字符串的内容
         char[] chs={'a','b','c'};
