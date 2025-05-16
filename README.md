@@ -102,3 +102,5 @@ StringDome7：用.substring方法进行截取（包头不包尾。由索引到�
 StringDome8：获取身份证信息。打印年月日，性别。
 StringDome9：string类型用replace可以通过for循环反复查找敏感词库内的敏感词，进行替换。
 StringDome10：StringBuilder容器对字符串进行操作append添加。reverse反转。tostring转化为string类型。还可以进行链式操作。
+StringDome11：键盘录入一个字符串，利用StringBuilder对字符串进行反转比较
+StringDome12：利用StringBuilder对字符串进行拼接，做到如int[] arr={1,2,3} 输出[1,2,3]。
