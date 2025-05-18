@@ -106,3 +106,5 @@ StringDome11：键盘录入一个字符串，利用StringBuilder对字符串进�
 StringDome12：利用StringBuilder对字符串进行拼接，做到如int[] arr={1,2,3} 输出[1,2,3]。
 Practice
 Test1：罗马数字转换。
+Test2：输出各种字母数字在ASCII码表的值。
+Test3：将字符串的首字符放在最后，然后和b字符串比较，然后返回结果。
