@@ -122,3 +122,8 @@ List5：根据集合中的内容，输出符合要求的对象信息。
 a01stactic：静态变量
 a02stactic：测试工具类。将方法放在工具类中。静态调用。
 a03stactic：使用JavaBean类，测试类，工具类。求集合内三个对象年龄最大值为。
+extendsTest:Java只支持单继承，不支持多继承，但支持多层继承。
+extendsDome:
+构造方法私有和非私有都不能继承
+成员变量私有和非私有都能继承
+成员方法非私有可以继承，私有无法继承。（虚方法表：非private 非stactic 非final）
