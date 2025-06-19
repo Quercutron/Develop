@@ -127,3 +127,13 @@ extendsDome:
 构造方法私有和非私有都不能继承
 成员变量私有和非私有都能继承
 成员方法非私有可以继承，私有无法继承。（虚方法表：非private 非stactic 非final）
+day12-code --- a01oopextensDome:成员变量的继承Name，this.name，super.name
+day12-code --- a02oopextensDome:成员方法的重载
+day12-code --- a03oopextensDome:私有变量的传递
+day12-code --- a04oopextensDome:课外练习
+在黑马程序员中有很多员工(Employee)。
+按照工作内容不同分教研部员工(Teacher)和行政部员工(AdminStaff)
+1.教研部根据教学的方式不同又分为讲师(Lecturer)和助教(Tutor)
+2.行政部根据负责事项不同,又分为维护专员(Maintainer),采购专员(Buyer)
+3.公司的每一个员工都编号,姓名和其负责的工作
+4.每个员工都有工作的功能,但是具体的工作内容又不一样。
