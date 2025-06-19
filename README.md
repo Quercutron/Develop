@@ -137,3 +137,4 @@ day12-code --- a04oopextensDome:课外练习
 2.行政部根据负责事项不同,又分为维护专员(Maintainer),采购专员(Buyer)
 3.公司的每一个员工都编号,姓名和其负责的工作
 4.每个员工都有工作的功能,但是具体的工作内容又不一样。
+day14-code --- a01oopextensDome:多态应用
