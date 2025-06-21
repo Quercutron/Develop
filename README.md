@@ -138,3 +138,4 @@ day12-code --- a04oopextensDome:课外练习
 3.公司的每一个员工都编号,姓名和其负责的工作
 4.每个员工都有工作的功能,但是具体的工作内容又不一样。
 day14-code --- a01oopextensDome:多态应用
+day14-code --- a02oopextensDome:定义狗，猫，饲养员类，在测试类中使用多态调用子类的特有的方法，并打印出特定信息。
